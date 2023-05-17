@@ -1,3 +1,11 @@
+# Projeto desenvolvido no curso - React: testando seus componentes.
+
+Você pode acessá-lo através deste link: https://amigo-secreto-lime.vercel.app/
+
+## Neste projeto aprendi um pouco mais sobre React Router Dom e como utilizá-lo e também aprendi a importância dos teste para aplicações em react
+
+### Desenvolvido no programa desenvolve23
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
