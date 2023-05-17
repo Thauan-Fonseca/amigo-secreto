@@ -2,7 +2,7 @@
 
 Você pode acessá-lo através deste link: https://amigo-secreto-lime.vercel.app/
 
-## Neste projeto aprendi um pouco mais sobre React Router Dom e como utilizá-lo e também aprendi a importância dos teste para aplicações em react
+## Neste projeto aprendi um pouco mais sobre React Router Dom e como utilizá-lo e também aprendi a importância dos testes para aplicações em react
 
 ### Desenvolvido no programa desenvolve23
 
