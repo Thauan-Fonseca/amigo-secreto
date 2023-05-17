@@ -4,6 +4,14 @@ Você pode acessá-lo através deste link: https://amigo-secreto-lime.vercel.app
 
 ## Neste projeto aprendi um pouco mais sobre React Router Dom e como utilizá-lo e também aprendi a importância dos testes para aplicações em react
 
+através do conceito do TDD (Test Driven Development) pude me situar um pouco mais a respeito do assunto
+
+Teste falha, teste passa, refatoração
+
+Fase vermelha: escrever um teste.
+Fase verde: fazer o teste passar, escrevendo o código que ele protege.
+Fase azul: refatorar.
+
 ### Desenvolvido no programa desenvolve23
 
 # Getting Started with Create React App
